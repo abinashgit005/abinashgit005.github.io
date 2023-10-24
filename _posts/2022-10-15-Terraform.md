@@ -7,3 +7,4 @@ tags:
 - DevOps
 - Terraform
 ---
+Terraform is a IAC (Infrastructure as a Code) Tool
