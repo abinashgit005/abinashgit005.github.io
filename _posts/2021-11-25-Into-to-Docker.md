@@ -317,3 +317,7 @@ docker network ls # list all networks
 ip link
 ipnetns
 ```
+
+### Docker Stack:
+Docker stack is a group of inter-related services that together form an entire Application.\
+Example: imagine a stack consists of 3 node.js applications and 1 Redis messaging service and 2 databases
